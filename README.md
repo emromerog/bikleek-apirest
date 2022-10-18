@@ -1,6 +1,18 @@
 # bikleek-apirest description
 Project for Spring Boot API RestFul. Technical Test Dev Web. Bikleek Company.
 
+Dependencias:
+
+-Spring Web
+
+-Spring Data JPA
+
+-MySQL Driver
+
+-Spring Boot DevTools:
+
+El proyecto base fue creado usando como ayuda https://start.spring.io/
+
 # to run
 Dentro de la ruta src/main/resources ubicar el archivo application.proporties y modificar la cadena de conexión de MySQL por la propia en localhost.
 No olvide especificar correctamente el username y password de la base datos, así como el nombre de la misma.
